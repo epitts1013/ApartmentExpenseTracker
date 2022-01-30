@@ -1,1 +1,1 @@
-# ApartmentExpenseTracker
+# Apartment Expense Tracker
