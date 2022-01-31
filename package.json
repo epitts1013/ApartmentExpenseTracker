@@ -1,0 +1,22 @@
+{
+  "name": "apartmentexpensetrackerrest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epitts1013/ApartmentExpenseTrackerREST.git"
+  },
+  "author": "Eric Pitts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epitts1013/ApartmentExpenseTrackerREST/issues"
+  },
+  "homepage": "https://github.com/epitts1013/ApartmentExpenseTrackerREST#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
