@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/epitts1013/ApartmentExpenseTrackerREST#readme",
   "dependencies": {
-    "aws-sdk": "^2.1066.0",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "jsonschema": "^1.4.0",
+    "mysql": "^2.18.1",
+    "yaml": "^1.10.2"
   },
   "type": "module"
 }
