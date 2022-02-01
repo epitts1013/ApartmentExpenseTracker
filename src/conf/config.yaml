@@ -1,0 +1,5 @@
+databaseConnectionInfo:
+  host: 'localhost'
+  user: 'root'
+  password: 'EliteSkinGnag'
+  database: 'ApartmentExpenseDB'
