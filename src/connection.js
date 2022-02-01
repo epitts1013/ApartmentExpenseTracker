@@ -1,6 +1,6 @@
 import fs from 'fs';
 import YAML from 'yaml';
-import mysql from 'mysql';
+import mysql from 'mysql2';
 
 // load configuration file
 const buffer = fs.readFileSync('conf/config.yaml', 'utf-8');
